@@ -18,3 +18,10 @@ My final device is a mashup of both. It is a self-contained, battery-powered ped
 - orange LED at front displays when power on / off. Also flashes 1, 2, or 3 times to confirm press version.
 - red LED on side illuminates when charging battery
 - green LED on side illuminates when battery full
+
+#### power
+- 3.7v LIPO battery
+- charges via the USB-C port on the pedal
+- auto powers off after 40 minutes of inactivity
+- press the silver switch to turn pedal on
+- hold the silver switch 5 seconds to turn pedal off
