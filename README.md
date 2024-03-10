@@ -11,8 +11,8 @@ My final device is a mashup of both. It is a self-contained, battery-powered ped
 
 #### navigation on the reMarkable
 - Short press = next page
-- Long press = previous page
-- Longer press = flip back 4 pages, then close current doc (used to changed to the next song)
+- Long press (750 ms to 1500 ms) = previous page
+- Longer press (> 2.5 seconds) = flip back 4 pages, then close current doc (used to changed to the next song)
 
 #### status LEDs
 - orange LED at front displays when power on / off. Also flashes 1, 2, or 3 times to confirm press version.
@@ -22,6 +22,6 @@ My final device is a mashup of both. It is a self-contained, battery-powered ped
 #### power
 - 3.7v LIPO battery
 - charges via the USB-C port on the pedal
-- auto powers off after 40 minutes of inactivity
+- auto powers off after 2 hours of inactivity
 - press the silver switch to turn pedal on
 - hold the silver switch 5 seconds to turn pedal off
