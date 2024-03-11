@@ -17,7 +17,7 @@
 
 1. Open the pedal by removing the screws on each side. De-solder the wire from the switch. Remove the wire and discard.
 2. Using a step drill bit, drill two large holes in the pedal to accommodate the USB ports for both the Teensy and the micro-lipo charger. Drill them very close to the bottom of the pedal. *Mine are slightly too high, so the pedal top interferes a bit with the charging port.*
-3. Solder everything together as pictured.5. Load the Arduino sketch onto the Teensy.
+3. Solder everything together as pictured.5. Load the [Arduino sketch](pedal2.ino) onto the Teensy.
 4. Plug the USB C cable into a computer to test that you can actually send the "right arrow" and "left arrow" keys to the computer.
 5. Follow [FunkyFab's instructions](https://github.com/FunkyFab/pageturner/wiki/Enabling-the-USB-C-port-of-the-reMarkable-2-tablet-in-host-mode) to get your reMarkable USB input working.
 6. Plug the USB C cable into the reMarkable to make sure that works. *I had many struggles getting this working. I had to uninstall ddvk from my reMarkable. I also couldn't get it work on any software version higher than 2.13.*
