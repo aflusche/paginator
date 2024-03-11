@@ -9,6 +9,8 @@ My final device is a mashup of both. It is a self-contained, battery-powered ped
 
 Video [demo on YouTube](https://youtu.be/zBM0Pr0DNEA).
 
+!(/assets/images/inside_with_light.jpg)
+
 Build instructions are [here](build.md).
 
 ## features
