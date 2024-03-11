@@ -9,7 +9,7 @@ My final device is a mashup of both. It is a self-contained, battery-powered ped
 
 Video [demo on YouTube](https://youtu.be/zBM0Pr0DNEA).
 
-![YouTube demo video](https://raw.githubusercontent.com/aflusche/paginator/main/thumbnail_small.jpg)
+![YouTube demo video](https://raw.githubusercontent.com/aflusche/paginator/main/thumbnail_small.png)
 
 ![paginator guts](https://raw.githubusercontent.com/aflusche/paginator/main/inside_with_light_small.jpg)
 
