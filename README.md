@@ -7,6 +7,8 @@ I then decided to go for the [pageturner](https://github.com/FunkyFab/pageturner
 
 My final device is a mashup of both. It is a self-contained, battery-powered pedal that connects to the USB-C port on the reMarkable 2. Using [this](https://www.amazon.com/dp/B0C7GCQVC6) low-profile USB cable, the tablet still sits nicely on its own bottom, even on a music stand.
 
+Video [demo on YouTube](https://youtu.be/zBM0Pr0DNEA).
+
 Build instructions are [here](build.md).
 
 ## features
