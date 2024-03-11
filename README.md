@@ -11,7 +11,7 @@ My final device is a mashup of both. It is a self-contained, battery-powered ped
 
 [![YouTube demo video](https://raw.githubusercontent.com/aflusche/paginator/main/thumbnail_small.png)](https://youtu.be/zBM0Pr0DNEA)
 
-**What the inside of the pedal looks like**
+**What the inside of the pedal looks like:**
 
 ![paginator guts](https://raw.githubusercontent.com/aflusche/paginator/main/inside_with_light_small.jpg)
 
